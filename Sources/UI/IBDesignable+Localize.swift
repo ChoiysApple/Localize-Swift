@@ -2,10 +2,11 @@
 //  IBDesignable+Localize1.swift
 //  Localize-Swift
 //
-//  Created by BinaryBoy on 7/23/19.
+//  Copyright © 2020 Roy Marmelstein. All rights reserved.
 //
 
 import Foundation
+import UIKit
 
 // MARK: - UILabel localize Key extention for language in story board
 
